@@ -1,2 +1,2 @@
-# random-icon-storage-for-cdns
+# random-item-storage-for-cdns
 ignore idk
